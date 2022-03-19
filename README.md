@@ -12,7 +12,7 @@
 
 ### :woman_technologist: About Me :
 
----I love learning new things :student:
----I love video games :video_game:
----I worked in a bank for 8 years.	:bank:
----In my free time I learn Java 	:heart: and read tech articles.
+-I love learning new things :student:
+-I love video games :video_game:
+-I worked in a bank for 8 years.	:bank:
+-In my free time I learn Java 	:heart: and read tech articles.

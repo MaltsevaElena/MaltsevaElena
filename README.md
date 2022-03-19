@@ -1,7 +1,9 @@
 ### Hi there 👋
 
+<div id="header" align="center">
+  <img src="https://gifer.com/embed/7ImI" width=480 height=302.118"/>
+</div>
 
-<src="https://gifer.com/embed/7ImI" width=480 height=302.118 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">через GIFER</a></p>
 
 <!--
 **MaltsevaElena/MaltsevaElena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

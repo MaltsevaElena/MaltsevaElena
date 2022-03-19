@@ -2,7 +2,7 @@
 
 
 <div id="header" align="center">
-  <img src="https://i.gifer.com/7ImI.gif" width="100"/>
+  <img src="https://gifer.com/embed/7ImI" width=480 height=302.118 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">через GIFER</a></p>" width="100"/>
 </div>
 
 

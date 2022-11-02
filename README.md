@@ -26,9 +26,8 @@
  <img src="https://github.com/MaltsevaElena/MaltsevaElena/blob/main/icons/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
  <img src="https://github.com/MaltsevaElena/MaltsevaElena/blob/main/icons/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
  <img src="https://github.com/MaltsevaElena/MaltsevaElena/blob/main/icons/library-tomcat-logo.png" title="Tomcat" alt="Tomcat" width="40" height="40"/>&nbsp;
- <img src="https://github.com/MaltsevaElena/MaltsevaElena/blob/main/icons/lombok.png" title="Lombok" alt="Lombok" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/MaltsevaElena/MaltsevaElena/blob/main/icons/lombok.png" title="Lombok" alt="Lombok" width="50" height="40"/>&nbsp;
  <img src="https://github.com/MaltsevaElena/MaltsevaElena/blob/main/icons/874086.png" title="JUnit" alt="JUnit" width="40" height="40"/>&nbsp;
- <img src="https://github.com/MaltsevaElena/MaltsevaElena/blob/main/icons/file_type_maven_icon_130397.png" title="Maven" alt="Maven" width="40" height="40"/>&nbsp;
  <img src="https://github.com/MaltsevaElena/MaltsevaElena/blob/main/icons/library-maven-logo.png" title="Maven" alt="Maven" width="40" height="40"/>&nbsp;
  <img src="https://github.com/MaltsevaElena/MaltsevaElena/blob/main/icons/file_type_sql_icon_130152.png" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
  <img src="https://github.com/MaltsevaElena/MaltsevaElena/blob/main/icons/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
